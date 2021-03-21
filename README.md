@@ -1,4 +1,6 @@
-# Auto-Create
+
 # This is Terminal shortcut 
-Web is written in python using Selenium 
-    You will download the Autopy code and create 
+This will write commands in terminal automatically
+and run python file which will login you in github and stackoverflow you can change it :)
+# How to run this ?
+
