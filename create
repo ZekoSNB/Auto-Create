@@ -1,8 +1,8 @@
 cd 
-python learn.py
-cd /home/zekousek/Documents/My_projects
+python learn.py {Put py file in home folder}
+cd /home/{Delete this and enter the directory where you want to make folder}
 mkdir $1
-cd /home/zekousek/Documents/My_projects/$1
+cd /home/{Copy that on top}/$1
 touch $1.py
-code . $1.py
-echo Succesfully maked $1 | lolcat
+code . $1.py {only if you have Vs code}
+echo Succesfully maked $1
