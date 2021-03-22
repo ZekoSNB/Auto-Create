@@ -1,0 +1,8 @@
+cd 
+python learn.py
+cd /home/zekousek/Documents/My_projects
+mkdir $1
+cd /home/zekousek/Documents/My_projects/$1
+touch $1.py
+code . $1.py
+echo Succesfully maked $1 | lolcat
